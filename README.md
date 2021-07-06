@@ -1,6 +1,6 @@
 <center>
   <h4 align="center"><code>hi, im doom :P</code></h4>
-  <h5 align="center">🍩</h5>
+  <h5 align="center">🍪</h5>
   <br>
   <p align="center" align-items="center">
     <img alt="fllwrs" src="https://img.shields.io/github/followers/notDoom?logo=github&style=for-the-badge" />
